@@ -1,0 +1,76 @@
+{
+    "dogs": [
+    {
+        "id": 1,
+        "name": "Buddy",
+        "breed": "Labrador Retriever",
+        "age": 3,
+        "gender": "Male",
+        "size": "Large",
+        "color": "Yellow",
+        "description": "Buddy is a friendly and energetic Labrador Retriever. He loves playing fetch and going for long walks.",
+        "image": "https://static3.depositphotos.com/1007995/262/i/950/depositphotos_2620281-stock-photo-one-year-labrador.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 2,
+        "name": "Luna",
+        "breed": "Border Collie",
+        "age": 2,
+        "gender": "Female",
+        "size": "Medium",
+        "color": "Black and White",
+        "description": "Luna is a smart and agile Border Collie. She excels at learning new tricks and enjoys being mentally challenged.",
+        "image": "images/luna.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "name": "Rocky",
+        "breed": "German Shepherd",
+        "age": 4,
+        "gender": "Male",
+        "size": "Large",
+        "color": "Sable",
+        "description": "Rocky is a loyal and protective German Shepherd. He is great with families and loves being a watchful companion.",
+        "image": "images/rocky.jpg",
+        "isAvailable": false
+    },
+    {
+        "id": 4,
+        "name": "Daisy",
+        "breed": "Golden Retriever",
+        "age": 1,
+        "gender": "Female",
+        "size": "Medium",
+        "color": "Golden",
+        "description": "Daisy is a playful and affectionate Golden Retriever puppy. She enjoys being around people and making new friends.",
+        "image": "images/daisy.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "name": "Max",
+        "breed": "Poodle",
+        "age": 5,
+        "gender": "Male",
+        "size": "Small",
+        "color": "White",
+        "description": "Max is a charming and well-groomed Poodle. He's great for families with allergies and loves getting pampered.",
+        "image": "images/max.jpg",
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "name": "Ruby",
+        "breed": "Cocker Spaniel",
+        "age": 2,
+        "gender": "Female",
+        "size": "Medium",
+        "color": "Red",
+        "description": "Ruby is a gentle and affectionate Cocker Spaniel. She enjoys cuddling and going for leisurely walks.",
+        "image": "images/ruby.jpg",
+        "isAvailable": true
+    }
+    ]
+}
