@@ -11,7 +11,7 @@ const DogsList = ({dogs, handleChange, formData}) => {
                         id={`dog-${dogs.name}`}
                         value={dogs.name}
                         disabled={!dogs.isAvailable}
-                        checked={formData.selectedDog === dogs.name} // Adjust this line
+                        checked={formData.selectedDog === dogs.name} 
                         onChange={handleChange}/>
                         
 
